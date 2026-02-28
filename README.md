@@ -3,7 +3,7 @@
 🌍 **Born
  in Medellín, Colombia** | 💡 **Passionate about turning ideas into efficient and scalable solutions**
 
-*Systems Engineer | Full-Stack Developer | Python & NestJS | React & Next.js | AI Integration | AWS & Docker*
+*Systems Engineer | Full-Stack Developer | Python, NestJS & NodeJS | React, Next.js & VueJS | AI Integration |*
 
 Welcome to my GitHub profile! I am a Systems Engineer and Full-Stack Developer with around 3 years of experience building robust systems. My main focus is backend development complemented by modern frontend, and I am passionate about integrating Artificial Intelligence to optimize corporate processes through automation and analytics.
 
