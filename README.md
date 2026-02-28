@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I am a Systems Engineer and Full-Stack Developer w
 ## Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,nestjs,react,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,django,nestjs,react,nextjs,vuejs" /><br>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,firebase,docker,kubernetes,jenkins,git,prometheus" />
 </p>
 
