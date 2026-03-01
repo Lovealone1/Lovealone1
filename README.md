@@ -1,7 +1,7 @@
 # Hi there, I'm Daniel Garcia Osorio! 👋
 
 🌍 **Born
- in Medellín, Colombia** | 💡 **Passionate about turning ideas into efficient and scalable solutions**
+ in Medellín, Colombia** | 💡 **Passionate about turning ideas into efficient solutions**
 
 *Systems Engineer | Full-Stack Developer | Python, NestJS & NodeJS | React, Next.js & VueJS | AI Integration |*
 
