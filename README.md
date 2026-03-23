@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel Garcia Osorio! 👋
+# Hi there, I'm Daniel Garcia! 👋
 
 🌍 **Born
  in Medellín, Colombia** | 💡 **Passionate about turning ideas into efficient solutions**
