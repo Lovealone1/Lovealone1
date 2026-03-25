@@ -24,7 +24,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://daniel-go.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielg07)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dgo342@hotmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:dgo342@hotmail.com)
 
 ---
 
