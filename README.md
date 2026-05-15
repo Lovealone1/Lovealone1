@@ -11,9 +11,41 @@ Welcome to my GitHub profile! I am a Systems Engineer and Full-Stack Developer w
 
 ## Technologies & Tools
 
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,go,nestjs,react,nextjs,vuejs" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,aws,firebase,docker,kubernetes,jenkins,git,prometheus" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,go,cs" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nestjs,django,dotnet" />
+</p>
+
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=github" height="48" alt="LangChain" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+</p>
+
+### 🔄 DevOps & Monitoring
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions,prometheus,git" />
+  <img src="https://cdn.simpleicons.org/datadog/632CA6" height="48" alt="Datadog" />
 </p>
 
 ---
