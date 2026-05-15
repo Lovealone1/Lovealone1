@@ -34,7 +34,8 @@ Welcome to my GitHub profile! I am a Systems Engineer and Full-Stack Developer w
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://skillicons.dev/icons?i=github" height="48" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/anthropic/191919" height="48" alt="Claude Code" />
 </p>
 
 ### ☁️ Cloud & Infrastructure
