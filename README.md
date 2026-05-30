@@ -5,7 +5,17 @@
 
 *Systems Engineer | Full-Stack Developer | Python, NestJS & NodeJS | React, Next.js & VueJS | AI Integration |*
 
-Welcome to my GitHub profile! I am a Systems Engineer and Full-Stack Developer with around 3 years of experience building robust systems. My main focus is backend development complemented by modern frontend, and I am passionate about integrating Artificial Intelligence to optimize corporate processes through automation and analytics.
+I'm a Systems Engineer and Full-Stack Developer passionate about building software that solves real business problems. Over the past few years, I've worked on scalable SaaS platforms, ERP systems, automation tools, and AI-powered applications designed to improve operational efficiency, streamline workflows, and support business growth.
+
+My primary expertise lies in backend development, where I enjoy designing robust architectures, scalable APIs, distributed systems, and data-driven solutions capable of supporting demanding business environments. I complement this with modern frontend development to deliver complete end-to-end products that prioritize maintainability, performance, and user experience.
+
+Artificial Intelligence has become one of my strongest areas of interest, and I enjoy integrating AI capabilities into software products through intelligent automation, recommendation systems, embeddings, analytics, and LLM-powered workflows that create measurable business value.
+
+Beyond software development, I have experience in DevOps and cloud-native practices, including containerization with Docker, orchestration with Kubernetes, CI/CD pipeline design, infrastructure automation, observability, and cloud deployments across AWS and Google Cloud Platform. I enjoy bridging the gap between development and operations to build reliable, scalable, and production-ready systems.
+
+I am passionate about software architecture, system design, scalability, and continuous improvement. I enjoy learning new technologies, exploring emerging trends in AI and cloud computing, and taking on challenges that push me to grow both technically and professionally.
+
+Outside of work, I enjoy building personal projects, experimenting with new ideas, and transforming concepts into products that deliver real-world impact.
 
 ---
 
