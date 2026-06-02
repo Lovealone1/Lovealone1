@@ -76,7 +76,7 @@ I'm always open to collaborating on interesting projects or discussing new ideas
 - **[Timo: Corporate lunch management](https://github.com/Lovealone1/Timo---Corporate-Lunch-Management-Platform):** Corporate lunch management (Next.js 15, NestJS, Prisma).
 - **[Garcold ERP](https://github.com/Lovealone1/GarcoldERP):** Modular POS-type ERP (Next.js, FastAPI, PostgreSQL).
 - **[CoveFood](https://github.com/Lovealone1/DelieveryDllMovil-Users):** Real-time delivery platform (Flutter, Firebase).
-- **[Easy-Point](https://github.com/Lovealone1/easy-point-api):** Multi-tenant ERP for entrepreneurs and small businesses (NestJS, PostgreSQL, Redis, Next.js).
+- **[Easy-Point](https://github.com/Lovealone1/easy-point-api):** Multi-tenant financial platform for entrepreneurs and small businesses (NestJS, PostgreSQL, Redis, Next.js).
 
 ---
 
